@@ -1,0 +1,19 @@
+body{
+    background: #2c3e50;
+}
+
+.common-nav{
+    background: red;
+}
+
+.common-heater{
+    background: #ecf0f1;
+}
+
+#home-p{
+    background: #e67e22;
+}
+
+#selling-p{
+    background: #3498db;
+}
