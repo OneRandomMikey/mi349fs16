@@ -1,0 +1,94 @@
+body{
+    font-family: Helvetica, sans-serif;
+    margin: 0;
+    padding: 10px;
+    background: linear-gradient( 90deg, #e74c3c , #e67e22 );
+
+}
+header{
+    text-align: center;
+}
+h2{
+    padding: 30px 10px 0;
+
+}
+
+#chicken_picture{
+
+    margin: 10px 0px 0px 0px;
+    border:7px solid white;
+    border-radius: 50px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+
+}
+#chicken_article{
+    text-align: center;
+
+}
+
+#chicken_ingredient{
+    list-style-type: none;
+}
+
+#chicken_cooking{
+    list-style-type: none;
+    padding: 1em;
+}
+#chicken_prep{
+    list-style-type: none;
+    display:inline;
+    padding:0px 10px 0px 10px;
+}
+
+#potato_picture{
+
+    margin: 10px 0px 0px 0px;
+    border:7px solid red;
+    border-radius: 50px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+
+}
+#potato_article{
+    text-align: center;
+
+}
+
+#potato_ingredient{
+    list-style-type: none;
+}
+
+#potato_cooking{
+    list-style-type: none;
+    padding: 1em;
+}
+#potato_prep{
+    list-style-type: none;
+    display:inline;
+    padding:0px 10px 0px 10px;
+}
+
+#dumpling_picture{
+
+    margin: 10px 0px 0px 0px;
+    border:7px solid blue;
+    border-radius: 50px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+
+}
+#dumpling_article{
+    text-align: center;
+
+}
+
+#dumpling_ingredient{
+    list-style-type: none;
+}
+
+#dumpling_cooking{
+    list-style-type: none;
+    padding: 1em;
+}
+#dumpling_prep{
+    list-style-type: none;
+    display:inline;
+    padding:0px 10px 0px 1dumpling
