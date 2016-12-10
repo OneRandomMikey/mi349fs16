@@ -1,0 +1,98 @@
+header{
+    font-family: 'Londrina Shadow', cursive;
+    text-align: center;
+    font-size: 50px;
+    color: #aaaaaa;
+    margin: 10px 0 0 0;
+}
+
+.home-head-bar{
+    padding: 10px;
+    background: #3498db;
+}
+
+input[type="submit"] {
+    background: red;
+    color: white;
+  }
+
+li{
+    font-family: helvetica, sans-serif;
+    display: inline;
+    padding: 0px 10px 0px 100px;
+}
+
+.content {
+    display: flex;
+}
+.content section{
+    padding 1em;
+    flex: 2 4 0;
+
+}
+.content section:first-of-type{
+    flex: 1 10 0;
+}
+
+.video-des{
+    font-family: 'Londrina Shadow', cursive;
+    text-align: center;
+    font-size:30px;
+    color: blue;
+    margin: 10px 0 10px 0;
+}
+
+.hot-selling{
+    font-family: 'Londrina Shadow', cursive;
+    text-align: center;
+    font-size:30px;
+    color: #8e44ad;
+    margin: 10px 0 10px 0;
+}
+
+.a5{
+    font-family: helvetica, sans-serif;
+    text-align: center;
+    font-size: 15px;
+    margin:20px 0 10px 0;
+}
+
+.a5-image{
+    margin:20px 170px 0 170px;
+}
+
+.primer{
+    font-family: helvetica, sans-serif;
+    text-align: center;
+    font-size: 15px;
+    margin:30px 0 0 0;
+}
+
+.primer-image{
+    margin:20px 170px 0 170px;
+}
+
+.house{
+    font-family: helvetica, sans-serif;
+    text-align: center;
+    font-size: 15px;
+    margin:30px 0 0 0;
+}
+.house-image{
+    margin:20px 170px 0 170px;
+}
+
+
+
+@media (max-width: 900px){
+    header{
+        font-size: 30px;
+
+    }
+}
+
+@media (max-width: 400px){
+    header{
+        font-size: 15px;
+    }
+}
